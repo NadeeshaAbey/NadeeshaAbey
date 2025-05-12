@@ -1,9 +1,5 @@
 # 💫 About Me:
-<pre>
-Hi there! 👋<br>I’m Nadeesha, a Computer Science undergraduate with a strong interest in web development, particularly
-in React.js. I’m passionate about building dynamic and responsive web applications and am currently
-diving deep into the world of React.js and Spring Boot.<br><br>🔭 Current Focus:<br>  Developing robust applications using React.js<br>  Exploring backend development with Spring Boot<br><br>🌱 Learning:<br>  Advanced concepts in React.js<br>  Building scalable backend systems with Spring Boot<br><br>💬 Ask me about:<br>  Front-end development with React.js<br>  Integrating React.js with modern back-end technologies<br><br>Check out my repositories to see my latest projects, and feel free to connect!
-</pre>
+<pre> Hi there! 👋<br>I’m Nadeesha, a Computer Science undergraduate with a strong interest in full-stack development and artificial intelligence. I'm passionate about building end-to-end applications and exploring how AI/ML can enhance user experiences and automate tasks.<br><br>🔭 Current Focus:<br> Developing full-stack applications using React.js and Spring Boot<br> Exploring AI/ML techniques for real-world problem solving<br><br>🌱 Learning:<br> Scalable system design and cloud integration<br> Machine learning with Python, including NLP and deep learning<br><br>💬 Ask me about:<br> Full-stack development with React.js and Spring Boot<br> Applying machine learning to real-world applications<br><br>Check out my repositories to see my latest projects, and feel free to connect! </pre>
   <div align="center">
 
 ## 🌐 Socials:
